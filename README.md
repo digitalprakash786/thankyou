@@ -12,4 +12,5 @@ To confirm the payment and guide users to:
 Meta (Facebook) Pixel is installed for retargeting ads.
 
 ## 🌐 Live Link:
-👉 [https://prakashdev007.github.io/thankyou/](https://prakashdev007.github.io/thankyou/)
+👉 
+https://digitalprakash786.github.io/thankyou/
